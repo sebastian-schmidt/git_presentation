@@ -1,6 +1,8 @@
 constant1
+line1
 constant2
-line2!
+line2
 constant3
-line3?
+line3
 constant4
+line4
