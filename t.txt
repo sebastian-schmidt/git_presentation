@@ -1,5 +1,4 @@
 constant1
-line1
 constant2
 line2
 constant3
